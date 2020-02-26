@@ -15,8 +15,13 @@ colour pixel, a smaller macro shot, or the whole frame.
 
 # Scanning Elements
 IMU and Distance Fusion
+
 Transmission from Raspberry Pi to Matlab / Simulink
+
 Receive transmission from Raspberry Pi to Matlab
+
 Receive transmission from Raspberry Pi to Simulink
+
 Transmission from Raspberry Pi to Arduino via Serial
+
 Hard Iron Calibration for the Magnometer
