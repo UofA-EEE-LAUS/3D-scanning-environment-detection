@@ -5,13 +5,8 @@ Team Members: Yingzhe Guo, Abdul Rahim Mohammad, Swapnil Srivastava, Glenn Walsh
 
 # Project Description
 From the Raspberry Pi, a suite of sensors that detect range will be used. This
-includes an ultrasonic sensor, a laser sensor, an IR sensor, and a ZX range sensor. As Raspberry Pi
-is used, an Analogue to Digital Converter may be used to convert the analogue signals from the
-sensor suite, to a digital version, such that the Raspberry Pi can use it. The Acceleration, and angular
-acceleration are obtained from the IMU. The distance to object will then be
-passed through a filter to obtain a more appropriate reading, and sent to be packaged. The reading
-from the camera at that timestamp will also be output, this can either be in the form of a singular
-colour pixel, a smaller macro shot, or the whole frame.
+includes an ultrasonic sensor, a laser sensor, an IR sensor, and a ZX range sensor. The Acceleration, angular
+velocity, and magnetic field are obtained from the IMU. This information is then fused with a complementray filter. The distance to object will then be passed through a filter to obtain a more appropriate reading. All of this data will be packaged together to be sent as environmental data to be used by other modules.
 
 # Scanning Elements
 IMU and Distance Fusion
