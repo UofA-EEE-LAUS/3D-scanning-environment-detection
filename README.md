@@ -25,3 +25,7 @@ Receive transmission from Raspberry Pi to Simulink
 Transmission from Raspberry Pi to Arduino via Serial
 
 Hard Iron Calibration for the Magnometer
+
+Base SLAM Algorithm
+
+SLAM Algorithm with cone spread
