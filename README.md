@@ -12,3 +12,11 @@ acceleration are obtained from the IMU. The distance to object will then be
 passed through a filter to obtain a more appropriate reading, and sent to be packaged. The reading
 from the camera at that timestamp will also be output, this can either be in the form of a singular
 colour pixel, a smaller macro shot, or the whole frame.
+
+# Scanning Elements
+IMU and Distance Fusion
+Transmission from Raspberry Pi to Matlab / Simulink
+Receive transmission from Raspberry Pi to Matlab
+Receive transmission from Raspberry Pi to Simulink
+Transmission from Raspberry Pi to Arduino via Serial
+Hard Iron Calibration for the Magnometer
