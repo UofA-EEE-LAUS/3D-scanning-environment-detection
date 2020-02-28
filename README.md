@@ -9,9 +9,11 @@ includes an ultrasonic sensor, a laser sensor, an IR sensor, and a ZX range sens
 velocity, and magnetic field are obtained from the IMU. This information is then fused with a complementray filter. The distance to object will then be passed through a filter to obtain a more appropriate reading. All of this data will be packaged together to be sent as environmental data to be used by other modules.
 
 # Scanning Elements
-IMU and Distance Fusion
+Main File (Main.py):
 
-Transmission from Raspberry Pi to Matlab / Simulink
+-IMU and Distance Fusion
+
+-Transmission from Raspberry Pi to Matlab / Simulink
 
 Receive transmission from Raspberry Pi to Matlab
 
