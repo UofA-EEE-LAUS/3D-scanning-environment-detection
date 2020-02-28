@@ -14,5 +14,5 @@ and it will display the received package on the right
 
 # Receive into Arduino
 
-Arduino receiving is relatively simple, it just works :
+Arduino receiving is relatively simple, You just set the "PackageLength" variable to how many elements you are transmitting, and set the "Package" array to the same number
 
