@@ -13,16 +13,16 @@ Main File (Main.py):
 
 -IMU and Distance Fusion
 
--Transmission from Raspberry Pi to Matlab / Simulink
+-TCP Transmission from Raspberry Pi (to Matlab / Simulink)
 
-Receive transmission from Raspberry Pi to Matlab
+Receive transmission from Raspberry Pi to Matlab  (TCPPackageRx.m)
 
-Receive transmission from Raspberry Pi to Simulink
+Receive transmission from Raspberry Pi to Simulink (Unpack.slx)
 
-Transmission from Raspberry Pi to Arduino via Serial
+Receive transmission from Raspberry Pi to Arduino via Serial (myduino.ino)
 
-Hard Iron Calibration for the Magnometer
+Hard Iron Calibration for the Magnometer (That one website)
 
-Base SLAM Algorithm
+Base SLAM Algorithm (map.m)
 
-SLAM Algorithm with cone spread
+SLAM Algorithm with cone spread (MapWithRays.m)
