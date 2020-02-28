@@ -26,3 +26,14 @@ Hard Iron Calibration for the Magnometer (That one website)
 Base SLAM Algorithm (map.m)
 
 SLAM Algorithm with cone spread (MapWithRays.m)
+
+# Magnetometer Calibration
+I didn't manually write any lengthy magnetometer calibration algorithms, but the following websites are great resources for learning about it. If you have any interest in this topic, these are all must reads:
+
+https://www.fierceelectronics.com/components/compensating-for-tilt-hard-iron-and-soft-iron-effects
+
+https://learn.adafruit.com/how-to-fuse-motion-sensor-data-into-ahrs-orientation-euler-quaternions/magnetic-calibration-with-motioncal
+
+https://thecavepearlproject.org/2015/05/22/calibrating-any-compass-or-accelerometer-for-arduino/
+
+
