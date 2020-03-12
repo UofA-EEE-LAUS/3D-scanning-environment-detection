@@ -40,4 +40,5 @@ https://thecavepearlproject.org/2015/05/22/calibrating-any-compass-or-accelerome
 # FILTERS
 
 Filters used for processing SONAR and LIDAR data, these files are optional. 
+
 Kalmanfilter.py for Kalman filter and Alphatrimmer.py for alphatrimmer  
