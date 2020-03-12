@@ -37,4 +37,7 @@ https://learn.adafruit.com/how-to-fuse-motion-sensor-data-into-ahrs-orientation-
 
 https://thecavepearlproject.org/2015/05/22/calibrating-any-compass-or-accelerometer-for-arduino/
 
+# FILTERS
 
+Filters used for processing SONAR and LIDAR data, these files are optional. 
+Kalmanfilter.py for Kalman filter and Alphatrimmer.py for alphatrimmer  
