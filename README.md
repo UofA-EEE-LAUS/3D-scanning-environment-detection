@@ -42,3 +42,7 @@ https://thecavepearlproject.org/2015/05/22/calibrating-any-compass-or-accelerome
 Filters used for processing SONAR and LIDAR data, these files are optional. 
 
 Kalmanfilter.py for Kalman filter and Alphatrimmer.py for alphatrimmer  
+
+# MODULES
+
+Individual files for all the sensors. USS.py for SONAR, LIDAR.py for LIDAR, IMU.py for IMU, SERIAL_COMM.py for serial communication.
