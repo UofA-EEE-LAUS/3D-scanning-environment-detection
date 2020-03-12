@@ -45,4 +45,6 @@ Kalmanfilter.py for Kalman filter and Alphatrimmer.py for alphatrimmer
 
 # MODULES
 
-Individual files for all the sensors. USS.py for SONAR, LIDAR.py for LIDAR, IMU.py for IMU, SERIAL_COMM.py for serial communication.
+Individual files for all the sensors.
+
+USS.py for SONAR, LIDAR.py for LIDAR, IMU.py for IMU, SERIAL_COMM.py for serial communication.
